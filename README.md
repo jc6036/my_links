@@ -16,6 +16,9 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 ## Security
 3/29/2017: [Using a Memory Corruption Bug to Escape a Python Sandbox](https://medium.com/@gabecpike/python-sandbox-escape-via-a-memory-corruption-bug-19dde4d5fea5)
 
+## Common Software Creation
+4/6/2017: [Writing a Text Editor in C, Line by Line.](http://viewsourcecode.org/snaptoken/kilo/)  
+
 ## Great Blogs
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
 [Coding Horror.](https://blog.codinghorror.com/) Great programming blog with advice for professionals and tech enthusiasts.  
