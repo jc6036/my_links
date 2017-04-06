@@ -12,6 +12,7 @@ I was going to have a section "Languages I'd like to Learn Better", but that's e
 [JavaScript](https://www.w3schools.com/js/)  
 [SQL](https://www.w3schools.com/sql/)  
 [Bash](https://tiswww.case.edu/php/chet/bash/bashref.html)  
+[Java](http://docs.oracle.com/javase/7/docs/api/)  
 
 ## Languages I Want to Learn
 These languages I haven't even written a simple program in, and I probably don't even know the syntax.  
