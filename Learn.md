@@ -31,6 +31,8 @@ Those things that I personally like to have a grip on, though they aren't essent
 ### Mobile Development
 ### User Interface Design
 ### Usability Design
+### Machine Learning
+### Distributed Computing
 
 
 I believe that it's possible to have a generalized knowledge of all of these things while focusing on a few as a specialty. That is my goal, with computer science both as a hobby and a career.
