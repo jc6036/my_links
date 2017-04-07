@@ -21,6 +21,7 @@ These languages I haven't even written a simple program in, and I probably don't
 [Elixir](http://elixir-lang.org/docs.html)  
 [Haskell](https://www.haskell.org/documentation)  
 [Batch](https://en.wikibooks.org/wiki/Windows_Batch_Scripting)
+[x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)  
 
 ## A Great Resource for Language Documentation
 It's called DevDocs, and has only recently popped up. It has searchable documentation on many languages and APIs, and honestly   
