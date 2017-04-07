@@ -20,7 +20,7 @@ These languages I haven't even written a simple program in, and I probably don't
 [Rust](https://doc.rust-lang.org/)  
 [Elixir](http://elixir-lang.org/docs.html)  
 [Haskell](https://www.haskell.org/documentation)  
-[Batch](https://en.wikibooks.org/wiki/Windows_Batch_Scripting)
+[Batch](https://en.wikibooks.org/wiki/Windows_Batch_Scripting)  
 [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)  
 
 ## A Great Resource for Language Documentation
