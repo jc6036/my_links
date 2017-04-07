@@ -22,6 +22,7 @@ These languages I haven't even written a simple program in, and I probably don't
 [Haskell](https://www.haskell.org/documentation)  
 [Batch](https://en.wikibooks.org/wiki/Windows_Batch_Scripting)  
 [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)  
+[Smalltalk](https://www.gnu.org/software/smalltalk/manual/gst.html)  
 
 ## A Great Resource for Language Documentation
 It's called DevDocs, and has only recently popped up. It has searchable documentation on many languages and APIs, and honestly   
