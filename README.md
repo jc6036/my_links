@@ -25,6 +25,9 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 ## Data Manipulation
 4/13/2017: [C++ String Wrangling](http://www.partow.net/programming/strtk/index.html#tutorial)  
 
+## Low Level Programming
+4/13/2017: [Low Level Programming Univeristy](https://github.com/gurugio/lowlevelprogramming-university)
+
 ## Useful Tools
 4/13/2017: [Cmder: a CMD Upgrade for Windows](http://cmder.net/)  
 
