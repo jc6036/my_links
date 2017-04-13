@@ -25,6 +25,9 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 ## Data Manipulation
 4/13/2017: [C++ String Wrangling](http://www.partow.net/programming/strtk/index.html#tutorial)  
 
+## Useful Tools
+4/13/2017: [Cmder: a CMD Upgrade for Windows](http://cmder.net/)  
+
 ## Great Blogs
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
 [Coding Horror.](https://blog.codinghorror.com/) Great programming blog with advice for professionals and tech enthusiasts.  
