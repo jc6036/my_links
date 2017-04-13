@@ -22,6 +22,9 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 ## Hardware
 4/11/2017: [Building a NAS](http://jro.io/nas/)  
 
+## Data Manipulation
+4/13/2017: [C++ String Wrangling](http://www.partow.net/programming/strtk/index.html#tutorial)  
+
 ## Great Blogs
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
 [Coding Horror.](https://blog.codinghorror.com/) Great programming blog with advice for professionals and tech enthusiasts.  
