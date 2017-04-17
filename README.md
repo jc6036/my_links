@@ -29,6 +29,9 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 4/13/2017: [Low Level Programming Univeristy](https://github.com/gurugio/lowlevelprogramming-university)  
 4/13/2017: [Eudyptula Challenge: Getting Code Into the Linux Kernel](http://eudyptula-challenge.org/)  
 
+#### Puzzles
+4/17/2017: [A Collection of Programming Puzzles](https://link.aqweeb.com/2pplo3w)
+
 #### Useful Tools
 4/13/2017: [Cmder: a CMD Upgrade for Windows](http://cmder.net/)  
 
