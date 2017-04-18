@@ -31,7 +31,10 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 4/17/2017: [How to Write a Simle Operating Sytem in Assembly](http://mikeos.sourceforge.net/write-your-own-os.html)
 
 #### Puzzles
-4/17/2017: [A Collection of Programming Puzzles](https://link.aqweeb.com/2pplo3w)
+4/17/2017: [A Collection of Programming Puzzles](https://link.aqweeb.com/2pplo3w)  
+
+#### Languages
+4/18/2017: [Modifying Python in 6 Minutes](https://hackernoon.com/modifying-the-python-language-in-7-minutes-b94b0a99ce14)
 
 #### Useful Tools
 4/13/2017: [Cmder: a CMD Upgrade for Windows](http://cmder.net/)  
