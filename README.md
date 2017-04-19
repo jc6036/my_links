@@ -38,6 +38,7 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 
 #### Useful Tools
 4/13/2017: [Cmder: a CMD Upgrade for Windows](http://cmder.net/)  
+4/19/2017: [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)  
 
 #### Great Blogs
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
