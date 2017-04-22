@@ -28,7 +28,8 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 #### Low Level Programming
 4/13/2017: [Low Level Programming Univeristy](https://github.com/gurugio/lowlevelprogramming-university)  
 4/13/2017: [Eudyptula Challenge: Getting Code Into the Linux Kernel](http://eudyptula-challenge.org/)  
-4/17/2017: [How to Write a Simle Operating Sytem in Assembly](http://mikeos.sourceforge.net/write-your-own-os.html)
+4/17/2017: [How to Write a Simle Operating Sytem in Assembly](http://mikeos.sourceforge.net/write-your-own-os.html)  
+4/22/2017: [A Mind is Born](https://linusakesson.net/scene/a-mind-is-born/) (Freaking AWESOME Commodore 64 techncial article!)  
 
 #### Puzzles
 4/17/2017: [A Collection of Programming Puzzles](https://link.aqweeb.com/2pplo3w)  
