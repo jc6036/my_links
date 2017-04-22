@@ -44,6 +44,9 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 #### Great Papers
 4/20/2017: [The Debugging Mindset](http://queue.acm.org/detail.cfm?id=3068754) (This paper is great! It's about the theory of problem-solving as it applies to debugging!)  
 
+#### Software Design
+4/22/2017: [Everything is Terrible](http://ferd.ca/tout-est-terrible.html)  
+
 #### Great Blogs
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
 [Coding Horror.](https://blog.codinghorror.com/) Great programming blog with advice for professionals and tech enthusiasts.  
