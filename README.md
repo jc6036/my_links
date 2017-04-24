@@ -30,6 +30,7 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 4/13/2017: [Eudyptula Challenge: Getting Code Into the Linux Kernel](http://eudyptula-challenge.org/)  
 4/17/2017: [How to Write a Simle Operating Sytem in Assembly](http://mikeos.sourceforge.net/write-your-own-os.html)  
 4/22/2017: [A Mind is Born](https://linusakesson.net/scene/a-mind-is-born/) (Freaking AWESOME Commodore 64 techncial article!)  
+4/24/2017: [From Monads to Machine Code](http://www.stephendiehl.com/posts/monads_machine_code.html)  
 
 #### Puzzles
 4/17/2017: [A Collection of Programming Puzzles](https://link.aqweeb.com/2pplo3w)  
