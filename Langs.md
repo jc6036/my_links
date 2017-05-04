@@ -23,9 +23,22 @@ These languages I haven't even written a simple program in, and I probably don't
 [Batch](https://en.wikibooks.org/wiki/Windows_Batch_Scripting)  
 [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)  
 [Smalltalk](https://www.gnu.org/software/smalltalk/manual/gst.html)  
+[Ruby](https://www.ruby-lang.org/en/)  
 
 ## A Great Resource for Language Documentation
 It's called DevDocs, and has only recently popped up. It has searchable documentation on many languages and APIs, and honestly   
 it's suprising that something as great as this has taken so long to hit the front page of google!  
 
 [DevDocs Link](http://devdocs.io/)
+
+# Frameworks
+Also included here are frame works I want to learn or that I have learned about already.
+
+## Frameworks I've Learned
+[MFC](https://msdn.microsoft.com/en-us/library/d06h2x6e.aspx)  
+[Windows Forms](https://msdn.microsoft.com/en-us/library/dd30h2yb(v=vs.110).aspx)  
+
+## Frameworks I Want to Learn
+[Django](https://www.djangoproject.com/)    
+[React](https://facebook.github.io/react/)  
+[Rails](http://rubyonrails.org/)  
