@@ -31,7 +31,7 @@ it's suprising that something as great as this has taken so long to hit the fron
 
 [DevDocs Link](http://devdocs.io/)
 
-# Frameworks
+# Frameworks and Tools
 Also included here are frame works I want to learn or that I have learned about already.
 
 ## Frameworks I've Learned
