@@ -1,6 +1,8 @@
 # my_links
 I'm using this repo to stash links focused on CS topics so that I can come back to them later.
 
+#### Structures
+5/9/2017: [Writing a Damn Fast Hash Table with Tiny Memory Footprints](http://www.idryman.org/blog/2017/05/03/writing-a-damn-fast-hash-table-with-tiny-memory-footprints/)  
 
 #### Diffs
 3/29/2017: [HN Link with lots of resources on Diff algorithms](https://news.ycombinator.com/item?id=13983085)
