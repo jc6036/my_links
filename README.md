@@ -49,6 +49,7 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 
 #### Software Design
 4/22/2017: [Everything is Terrible](http://ferd.ca/tout-est-terrible.html)  
+5/9/2017: [List of Free O'Reilly Books](http://www.oreilly.com/free/reports.html)  
 
 #### Great Blogs
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
