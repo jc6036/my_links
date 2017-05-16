@@ -54,6 +54,9 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 5/9/2017: [List of Free O'Reilly Books](http://www.oreilly.com/free/reports.html)  
 5/16/2017: [Python for Data Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)  
 
+#### Artificial Intelligence and Machine Learning
+5/16/2017: [A16Z AI Playbook](http://aiplaybook.a16z.com/) (An introduction to AI for programmers)  
+
 #### Great Blogs
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
 [Coding Horror.](https://blog.codinghorror.com/) Great programming blog with advice for professionals and tech enthusiasts.  
