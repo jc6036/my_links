@@ -57,6 +57,9 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 #### Artificial Intelligence and Machine Learning
 5/16/2017: [A16Z AI Playbook](http://aiplaybook.a16z.com/) (An introduction to AI for programmers)  
 
+#### Math and Science
+5/23/2017: [Learning the Language of Mathematics](https://wac.colostate.edu/llad/v4n1/jamison.pdf)  
+
 #### Great Blogs
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
 [Coding Horror.](https://blog.codinghorror.com/) Great programming blog with advice for professionals and tech enthusiasts.  
