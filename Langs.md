@@ -16,6 +16,7 @@ I was going to have a section "Languages I'd like to Learn Better", but that's e
 
 ## Languages I Want to Learn
 These languages I haven't even written a simple program in, and I probably don't even know the syntax.  
+[Kotlin](https://kotlinlang.org/)  
 [Go](https://golang.org/doc/)  
 [Rust](https://doc.rust-lang.org/)  
 [Elixir](http://elixir-lang.org/docs.html)  
