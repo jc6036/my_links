@@ -35,11 +35,14 @@ it's suprising that something as great as this has taken so long to hit the fron
 # Frameworks and Tools
 Also included here are frame works I want to learn or that I have learned about already.
 
-## Frameworks I've Learned
+## Tools I've Learned
 [MFC](https://msdn.microsoft.com/en-us/library/d06h2x6e.aspx)  
 [Windows Forms](https://msdn.microsoft.com/en-us/library/dd30h2yb(v=vs.110).aspx)  
+[Swing](https://docs.oracle.com/javase/tutorial/uiswing/components/index.html)  
 
-## Frameworks I Want to Learn
+## Tools I Want to Learn
 [Django](https://www.djangoproject.com/)    
 [React](https://facebook.github.io/react/)  
 [Rails](http://rubyonrails.org/)  
+[.NET](https://msdn.microsoft.com/en-us/library/ff361664(v=vs.110).aspx)  
+[JavaFX](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)  
