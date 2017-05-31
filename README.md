@@ -38,6 +38,7 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 
 #### Puzzles
 4/17/2017: [A Collection of Programming Puzzles](https://link.aqweeb.com/2pplo3w)  
+5/31/2017: [Klip, a simple language for studying language design](https://github.com/datcodingguy/klip)  
 
 #### Languages
 4/18/2017: [Modifying Python in 6 Minutes](https://hackernoon.com/modifying-the-python-language-in-7-minutes-b94b0a99ce14)
