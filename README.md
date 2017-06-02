@@ -8,7 +8,8 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 3/29/2017: [HN Link with lots of resources on Diff algorithms](https://news.ycombinator.com/item?id=13983085)
 
 #### Network Programming
-3/29/2017: [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
+3/29/2017: [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)  
+6/02/2017: [Network Protcols for anyone that knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols/97d3ba4c24d21147)  
 
 #### Game Programming
 3/29/2017: [Kyle Halladay's Introduction to Gameboy Advance Programming](http://kylehalladay.com/blog/tutorial/2017/03/28/GBA-By-Example-1.html)  
