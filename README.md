@@ -49,6 +49,7 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 #### Useful Tools
 4/13/2017: [Cmder: a CMD Upgrade for Windows](http://cmder.net/)  
 4/19/2017: [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)  
+6/6/2017: [The List of Lists](https://github.com/jnv/lists)  
 
 #### Great Papers
 4/20/2017: [The Debugging Mindset](http://queue.acm.org/detail.cfm?id=3068754) (This paper is great! It's about the theory of problem-solving as it applies to debugging!)  
