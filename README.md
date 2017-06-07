@@ -23,6 +23,7 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 4/6/2017: [Writing a Text Editor in C, Line by Line.](http://viewsourcecode.org/snaptoken/kilo/)  
 5/16/2017: [How to Create a Facebook Messenger Bot With Python](http://blog.apcelent.com/create-a-facebook-messenger-bot-with-python-flask.html)  
 6/5/2017: [500 Lines or Less: Code Studies of Common Problems](https://github.com/aosabook/500lines)  
+6/7/2017: [Which Open Source Projects Should You Contribute To?](https://www.koszek.com/blog/2017/05/31/which-open-source-projects-should-you-contribute-to/)  
 
 #### Hardware
 4/11/2017: [Building a NAS](http://jro.io/nas/)  
