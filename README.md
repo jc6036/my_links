@@ -48,11 +48,6 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 #### Languages
 4/18/2017: [Modifying Python in 6 Minutes](https://hackernoon.com/modifying-the-python-language-in-7-minutes-b94b0a99ce14)
 
-#### Useful Tools
-4/13/2017: [Cmder: a CMD Upgrade for Windows](http://cmder.net/)  
-4/19/2017: [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)  
-6/6/2017: [The List of Lists](https://github.com/jnv/lists)  
-
 #### Great Papers
 4/20/2017: [The Debugging Mindset](http://queue.acm.org/detail.cfm?id=3068754) (This paper is great! It's about the theory of problem-solving as it applies to debugging!)  
 
@@ -66,6 +61,12 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 
 #### Math and Science
 5/23/2017: [Learning the Language of Mathematics](https://wac.colostate.edu/llad/v4n1/jamison.pdf)  
+
+#### Useful Tools
+4/13/2017: [Cmder: a CMD Upgrade for Windows](http://cmder.net/)  
+4/19/2017: [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)  
+6/6/2017: [The List of Lists](https://github.com/jnv/lists)  
+6/8/2017: [Roesetta Code: Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)  
 
 #### Great Blogs
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
