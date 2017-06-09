@@ -40,6 +40,7 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 5/11/2017: [Crash Course to Amiga Assembly Programming](https://www.reaktor.com/blog/crash-course-to-amiga-assembly-programming/)  
 6/01/2017: [Building an 8-Bit computer from scratch](https://eater.net/)  
 6/6/2017: [How the Linux Kernel Works](https://0xax.gitbooks.io/linux-insides/content/)  
+6/9/2017: [Doing Your First Linux Kernel Patch](https://kernelnewbies.org/FirstKernelPatch)  
 
 #### Puzzles
 4/17/2017: [A Collection of Programming Puzzles](https://link.aqweeb.com/2pplo3w)  
