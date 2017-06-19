@@ -41,13 +41,15 @@ I'm using this repo to stash links focused on CS topics so that I can come back 
 6/01/2017: [Building an 8-Bit computer from scratch](https://eater.net/)  
 6/6/2017: [How the Linux Kernel Works](https://0xax.gitbooks.io/linux-insides/content/)  
 6/9/2017: [Doing Your First Linux Kernel Patch](https://kernelnewbies.org/FirstKernelPatch)  
+6/19/2017: [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/)  
 
 #### Puzzles
 4/17/2017: [A Collection of Programming Puzzles](https://link.aqweeb.com/2pplo3w)  
 5/31/2017: [Klip, a simple language for studying language design](https://github.com/datcodingguy/klip)  
 
 #### Languages
-4/18/2017: [Modifying Python in 6 Minutes](https://hackernoon.com/modifying-the-python-language-in-7-minutes-b94b0a99ce14)
+4/18/2017: [Modifying Python in 6 Minutes](https://hackernoon.com/modifying-the-python-language-in-7-minutes-b94b0a99ce14)  
+6/19/2017: [Wizard Code (C)](http://vendu.twodots.nl/wizardcode.html)  
 
 #### Great Papers
 4/20/2017: [The Debugging Mindset](http://queue.acm.org/detail.cfm?id=3068754) (This paper is great! It's about the theory of problem-solving as it applies to debugging!)  
