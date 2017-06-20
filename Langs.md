@@ -21,6 +21,8 @@ These languages I haven't even written a simple program in, and I probably don't
 [Rust](https://doc.rust-lang.org/)  
 [Elixir](http://elixir-lang.org/docs.html)  
 [Haskell](https://www.haskell.org/documentation)  
+Prolog  
+Smalltalk  
 [Batch](https://en.wikibooks.org/wiki/Windows_Batch_Scripting)  
 [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)  
 [Smalltalk](https://www.gnu.org/software/smalltalk/manual/gst.html)  
