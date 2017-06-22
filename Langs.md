@@ -27,6 +27,7 @@ Smalltalk
 [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)  
 [Smalltalk](https://www.gnu.org/software/smalltalk/manual/gst.html)  
 [Ruby](https://www.ruby-lang.org/en/)  
+[Clojure](http://www.clojurenewbieguide.com/)  
 
 ## A Great Resource for Language Documentation
 It's called DevDocs, and has only recently popped up. It has searchable documentation on many languages and APIs, and honestly   
