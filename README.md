@@ -1,6 +1,26 @@
 # my_links
 I'm using this repo to stash links focused on CS topics so that I can come back to them later.
 
+## Topics
+Here is a list of topics included in this document.
+### Structures
+### Diffs
+### Network Programming
+### Game Programming
+### Security
+### Common Software
+### Hardware
+### Data Manipulation
+### Low Level Programming
+### Puzzles
+### Languages
+### Papers
+### Software Design
+### AI and Machine Learning
+### Math and Science
+### Great Tools
+### Great Blogs
+
 #### Structures
 5/9/2017: [Writing a Damn Fast Hash Table with Tiny Memory Footprints](http://www.idryman.org/blog/2017/05/03/writing-a-damn-fast-hash-table-with-tiny-memory-footprints/)  
 
