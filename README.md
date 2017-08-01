@@ -90,6 +90,7 @@ Here is a list of topics included in this document.
 4/19/2017: [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)  
 6/6/2017: [The List of Lists](https://github.com/jnv/lists)  
 6/8/2017: [Roesetta Code: Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)  
+8/1/2017: [Flowchart Creation Tool; Dia](http://dia-installer.de/)  
 
 #### Great Blogs
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
