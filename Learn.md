@@ -81,3 +81,5 @@ This is where I offer recommendations that fall outside the scope of the specifi
 [x86 Assembly](https://www.amazon.com/dp/0133769402/ref=wl_it_dp_o_pC_S_ttl?_encoding=UTF8&colid=3H1VA8G9Y8XH1&coliid=IUSPBF2NKGNVP)  
 [The Art of Computer Programming](https://www.amazon.com/dp/0321751043/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3H1VA8G9Y8XH1&coliid=I3AIRMJI207RJ1)  
 [Hacker's Delight](https://www.amazon.com/dp/0321842685/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3H1VA8G9Y8XH1&coliid=I1EUNMPGN9TCFL)  
+[Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book)  
+[Red Team Field Manual](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/ref=sr_1_1?ie=UTF8&qid=1501595098&sr=8-1&keywords=red+team+field+manual)  
