@@ -83,3 +83,7 @@ This is where I offer recommendations that fall outside the scope of the specifi
 [Hacker's Delight](https://www.amazon.com/dp/0321842685/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3H1VA8G9Y8XH1&coliid=I1EUNMPGN9TCFL)  
 [Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book)  
 [Red Team Field Manual](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/ref=sr_1_1?ie=UTF8&qid=1501595098&sr=8-1&keywords=red+team+field+manual)  
+
+### General Education
+As we know, it's usually a good idea to go to a college to get a well-rounded computer science education. Unfortunately, this sort of thing is not often available to the autodidact. So we have the next best thing linked here to get a foothold in CS.
+[MIT Open Courseware.](https://ocw.mit.edu/index.htm) So that there's nothing stopping you from getting a good education in CS. Go for it. Also consider using Kahn Academy for math.
