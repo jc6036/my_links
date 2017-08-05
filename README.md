@@ -37,7 +37,8 @@ Here is a list of topics included in this document.
 4/4/2017: [Goal Oriented Action Planning for AI](https://gamedevelopment.tutsplus.com/tutorials/goal-oriented-action-planning-for-a-smarter-ai--cms-20793)  
 
 #### Security
-3/29/2017: [Using a Memory Corruption Bug to Escape a Python Sandbox](https://medium.com/@gabecpike/python-sandbox-escape-via-a-memory-corruption-bug-19dde4d5fea5)
+3/29/2017: [Using a Memory Corruption Bug to Escape a Python Sandbox](https://medium.com/@gabecpike/python-sandbox-escape-via-a-memory-corruption-bug-19dde4d5fea5)  
+8/5/2017: [Hackers Arise - Tutorials on Everything](https://www.hackers-arise.com/)  
 
 #### Common Software Creation
 4/6/2017: [Writing a Text Editor in C, Line by Line.](http://viewsourcecode.org/snaptoken/kilo/)  
