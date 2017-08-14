@@ -35,6 +35,7 @@ Here is a list of topics included in this document.
 3/29/2017: [Kyle Halladay's Introduction to Gameboy Advance Programming](http://kylehalladay.com/blog/tutorial/2017/03/28/GBA-By-Example-1.html)  
 3/31/2017: [A Simple Chess AI, Step by Step. Medium.com](https://medium.com/@lhartikk/simple-chess-ai-step-by-step-1d55a9266977)  
 4/4/2017: [Goal Oriented Action Planning for AI](https://gamedevelopment.tutsplus.com/tutorials/goal-oriented-action-planning-for-a-smarter-ai--cms-20793)  
+8/14/2017: [Building a NES Game in C](https://nesdoug.com/)  
 
 #### Security
 3/29/2017: [Using a Memory Corruption Bug to Escape a Python Sandbox](https://medium.com/@gabecpike/python-sandbox-escape-via-a-memory-corruption-bug-19dde4d5fea5)  
