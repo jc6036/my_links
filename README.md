@@ -93,6 +93,7 @@ Here is a list of topics included in this document.
 6/6/2017: [The List of Lists](https://github.com/jnv/lists)  
 6/8/2017: [Roesetta Code: Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)  
 8/1/2017: [Flowchart Creation Tool; Dia](http://dia-installer.de/)  
+8/15/2017: [Try Haskell: An interactive haskell tutorial.](https://www.tryhaskell.org/)  
 
 #### Great Blogs
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
