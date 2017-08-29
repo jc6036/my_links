@@ -75,6 +75,7 @@ Here is a list of topics included in this document.
 
 #### Great Papers
 4/20/2017: [The Debugging Mindset](http://queue.acm.org/detail.cfm?id=3068754) (This paper is great! It's about the theory of problem-solving as it applies to debugging!)  
+8/29/2017: [Inside: A Collection of Newsletters](https://inside.com/)  
 
 #### Software Design
 4/22/2017: [Everything is Terrible](http://ferd.ca/tout-est-terrible.html)  
