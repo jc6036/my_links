@@ -21,6 +21,7 @@ Here is a list of topics included in this document.
 * Logic
 * Great Tools
 * Great Blogs/Sites
+* Curious Things
 
 #### Structures
 5/9/2017: [Writing a Damn Fast Hash Table with Tiny Memory Footprints](http://www.idryman.org/blog/2017/05/03/writing-a-damn-fast-hash-table-with-tiny-memory-footprints/)  
@@ -107,3 +108,6 @@ Here is a list of topics included in this document.
 [IT Hare.](http://ithare.com/) Fantastic technical articles and tutorials on complex concepts.  
 [Udacity.](https://www.udacity.com/) Expediant CS training to bring you from no skills to lotsa skills. For-Profit.  
 [Hackerrank](https://www.hackerrank.com) Once a place filled with programming puzzles, now it includes those puzzles, language tutorial tracks, special skill tracks, and tons of coding competitions. Great resume buffer, and great practice for interviews and for learning new languages.  
+
+#### Curious Things
+[The Library of Babel.](https://libraryofbabel.info/) Contains every possible combination of a set of characters. Every written work of man can be found within.  
