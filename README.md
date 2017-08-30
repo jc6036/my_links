@@ -18,6 +18,7 @@ Here is a list of topics included in this document.
 * Software Design
 * AI and Machine Learning
 * Math and Science
+* Logic
 * Great Tools
 * Great Blogs
 
@@ -87,6 +88,9 @@ Here is a list of topics included in this document.
 
 #### Math and Science
 5/23/2017: [Learning the Language of Mathematics](https://wac.colostate.edu/llad/v4n1/jamison.pdf)  
+
+#### Logic
+8/29/2017: [Teach Yourself Logic](http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf)  
 
 #### Useful Tools
 4/13/2017: [Cmder: a CMD Upgrade for Windows](http://cmder.net/)  
