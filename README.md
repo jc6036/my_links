@@ -20,7 +20,7 @@ Here is a list of topics included in this document.
 * Math and Science
 * Logic
 * Great Tools
-* Great Blogs
+* Great Blogs/Sites
 
 #### Structures
 5/9/2017: [Writing a Damn Fast Hash Table with Tiny Memory Footprints](http://www.idryman.org/blog/2017/05/03/writing-a-damn-fast-hash-table-with-tiny-memory-footprints/)  
@@ -100,8 +100,10 @@ Here is a list of topics included in this document.
 8/1/2017: [Flowchart Creation Tool; Dia](http://dia-installer.de/)  
 8/15/2017: [Try Haskell: An interactive haskell tutorial.](https://www.tryhaskell.org/)  
 
-#### Great Blogs
+#### Great Blogs/Sites
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
 [Coding Horror.](https://blog.codinghorror.com/) Great programming blog with advice for professionals and tech enthusiasts.  
 [Coding Horror Recommended Reading.](https://blog.codinghorror.com/recommended-reading-for-developers/) A fan-fucking-tastic recommended reading list about our craft.  
 [IT Hare.](http://ithare.com/) Fantastic technical articles and tutorials on complex concepts.  
+[Udacity.](https://www.udacity.com/) Expediant CS training to bring you from no skills to lotsa skills. For-Profit.  
+[Hackerrank](https://www.hackerrank.com) Once a place filled with programming puzzles, now it includes those puzzles, language tutorial tracks, special skill tracks, and tons of coding competitions. Great resume buffer, and great practice for interviews and for learning new languages.  
