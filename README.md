@@ -102,13 +102,15 @@ Here is a list of topics included in this document.
 8/1/2017: [Flowchart Creation Tool; Dia](http://dia-installer.de/)  
 8/15/2017: [Try Haskell: An interactive haskell tutorial.](https://www.tryhaskell.org/)  
 
-#### Great Blogs/Sites
+#### Great Blogs/Sites/Repos
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
 [Coding Horror.](https://blog.codinghorror.com/) Great programming blog with advice for professionals and tech enthusiasts.  
 [Coding Horror Recommended Reading.](https://blog.codinghorror.com/recommended-reading-for-developers/) A fan-fucking-tastic recommended reading list about our craft.  
 [IT Hare.](http://ithare.com/) Fantastic technical articles and tutorials on complex concepts.  
 [Udacity.](https://www.udacity.com/) Expediant CS training to bring you from no skills to lotsa skills. For-Profit.  
 [Hackerrank](https://www.hackerrank.com) Once a place filled with programming puzzles, now it includes those puzzles, language tutorial tracks, special skill tracks, and tons of coding competitions. Great resume buffer, and great practice for interviews and for learning new languages.  
+  
+[Repo: Everything a programmer should know.](https://github.com/mr-mig/every-programmer-should-know)  
 
 #### Curious Things
 [The Library of Babel.](https://libraryofbabel.info/) Contains every possible combination of a set of characters. Every written work of man can be found within.  
