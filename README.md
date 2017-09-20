@@ -76,7 +76,7 @@ Here is a list of topics included in this document.
 4/18/2017: [Modifying Python in 6 Minutes](https://hackernoon.com/modifying-the-python-language-in-7-minutes-b94b0a99ce14)  
 6/19/2017: [Wizard Code (C)](http://vendu.twodots.nl/wizardcode.html)  
 8/30/2017: [The History of C, by Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/chist.html)  
-9/19/2017: [Tips and Tricks for Java Swing](http://www.alethis.net/reference/java/swing.html) (Read)  
+9/19/2017: ~[Tips and Tricks for Java Swing](http://www.alethis.net/reference/java/swing.html)~    
 
 #### Great Papers
 4/20/2017: [The Debugging Mindset](http://queue.acm.org/detail.cfm?id=3068754) (This paper is great! It's about the theory of problem-solving as it applies to debugging!)  
