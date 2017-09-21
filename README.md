@@ -111,6 +111,7 @@ Here is a list of topics included in this document.
 [Coding Horror Recommended Reading.](https://blog.codinghorror.com/recommended-reading-for-developers/) A fan-fucking-tastic recommended reading list about our craft.  
 [IT Hare.](http://ithare.com/) Fantastic technical articles and tutorials on complex concepts.  
 [Udacity.](https://www.udacity.com/) Expediant CS training to bring you from no skills to lotsa skills. For-Profit.  
+[Udemy.](https://www.udemy.com/) More purchasable courses for everything from 3d modeling to computer science.  
 [Hackerrank](https://www.hackerrank.com) Once a place filled with programming puzzles, now it includes those puzzles, language tutorial tracks, special skill tracks, and tons of coding competitions. Great resume buffer, and great practice for interviews and for learning new languages.  
   
 Repo: [Everything a programmer should know.](https://github.com/mr-mig/every-programmer-should-know)  
