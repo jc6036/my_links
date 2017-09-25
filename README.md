@@ -68,6 +68,7 @@ Here is a list of topics included in this document.
 6/6/2017: [How the Linux Kernel Works](https://0xax.gitbooks.io/linux-insides/content/)  
 6/9/2017: [Doing Your First Linux Kernel Patch](https://kernelnewbies.org/FirstKernelPatch)  
 6/19/2017: [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/)  
+9/25/2017: [Java JNI Tutorial](https://www3.ntu.edu.sg/home/ehchua/programming/java/JavaNativeInterface.html)  
 
 #### Puzzles
 4/17/2017: [A Collection of Programming Puzzles](https://link.aqweeb.com/2pplo3w)  
