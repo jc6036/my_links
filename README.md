@@ -97,6 +97,7 @@ Here is a list of topics included in this document.
 
 #### Logic
 8/29/2017: [Teach Yourself Logic](http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf)  
+9/27/2017: [TLA+: A Logical Software Specification Language](https://lamport.azurewebsites.net/tla/tla.html)  
 
 #### Useful Tools
 4/13/2017: [Cmder: a CMD Upgrade for Windows](http://cmder.net/)  
