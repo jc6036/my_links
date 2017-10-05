@@ -88,6 +88,7 @@ Here is a list of topics included in this document.
 4/22/2017: [Everything is Terrible](http://ferd.ca/tout-est-terrible.html)  
 5/9/2017: [List of Free O'Reilly Books](http://www.oreilly.com/free/reports.html)  
 5/16/2017: [Python for Data Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)  
+10/05/2017: [Dynamic Programming: From Beginner to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)  
 
 #### Artificial Intelligence and Machine Learning
 5/16/2017: [A16Z AI Playbook](http://aiplaybook.a16z.com/) (An introduction to AI for programmers)  
