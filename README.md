@@ -117,6 +117,7 @@ Here is a list of topics included in this document.
 [Udemy.](https://www.udemy.com/) More purchasable courses for everything from 3d modeling to computer science.  
 [Hackerrank.](https://www.hackerrank.com) Once a place filled with programming puzzles, now it includes those puzzles, language tutorial tracks, special skill tracks, and tons of coding competitions. Great resume buffer, and great practice for interviews and for learning new languages.  
 [Red Blob Games.](https://www.redblobgames.com/) A wonderful blog about game programming with many technical articles.  
+[Dev Free Books.](https://devfreebooks.github.io/?utm_source=t.co&utm_medium=referral) Great resource with lots of free e-books for developers.  
   
 Repo: [Everything a programmer should know.](https://github.com/mr-mig/every-programmer-should-know)  
 
