@@ -26,7 +26,7 @@ Here is a list of topics included in this document.
 #### Structures
 5/9/2017: [Writing a Damn Fast Hash Table with Tiny Memory Footprints](http://www.idryman.org/blog/2017/05/03/writing-a-damn-fast-hash-table-with-tiny-memory-footprints/)  
 
-#### Diffs
+#### Algorithms
 3/29/2017: [HN Link with lots of resources on Diff algorithms](https://news.ycombinator.com/item?id=13983085)
 
 #### Network Programming
@@ -99,6 +99,9 @@ Here is a list of topics included in this document.
 #### Logic
 8/29/2017: [Teach Yourself Logic](http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf)  
 9/27/2017: [TLA+: A Logical Software Specification Language](https://lamport.azurewebsites.net/tla/tla.html)  
+
+#### Tutorial Sites
+10/23/2017: [Learn Git Branching Interactively](https://learngitbranching.js.org/)  
 
 #### Useful Tools
 4/13/2017: [Cmder: a CMD Upgrade for Windows](http://cmder.net/)  
