@@ -50,3 +50,5 @@ Also included here are frame works I want to learn or that I have learned about 
 [.NET](https://msdn.microsoft.com/en-us/library/ff361664(v=vs.110).aspx)  
 [JavaFX](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)  
 [Angular](https://angular.io/)  
+[Gradle](https://gradle.org/)  
+[Maven](https://maven.apache.org/)  
