@@ -50,6 +50,7 @@ Here is a list of topics included in this document.
 6/5/2017: [500 Lines or Less: Code Studies of Common Problems](https://github.com/aosabook/500lines)  
 6/7/2017: [Which Open Source Projects Should You Contribute To?](https://www.koszek.com/blog/2017/05/31/which-open-source-projects-should-you-contribute-to/)  
 9/5/2017: [Building a SQLite Clone in C.](https://cstack.github.io/db_tutorial/)  
+12/12/2017: [An Introduction to Parallel Computing in C++](https://www.cs.cmu.edu/~15210/pasl.html#_parallel_fibonacci)  
 
 #### Hardware
 4/11/2017: [Building a NAS](http://jro.io/nas/)  
