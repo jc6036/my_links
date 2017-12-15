@@ -129,3 +129,5 @@ Repo: [Everything a programmer should know.](https://github.com/mr-mig/every-pro
 
 #### Curious Things
 [The Library of Babel.](https://libraryofbabel.info/) Contains every possible combination of a set of characters. Every written work of man can be found within.  
+
+12/15/2017: [Skills in-Demand as of 2017](http://www.codingdojo.com/blog/7-most-in-demand-programming-languages-of-2018/)  
