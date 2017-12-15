@@ -10,7 +10,6 @@ I was going to have a section "Languages I'd like to Learn Better", but that's e
 [HTML](https://www.w3schools.com/html/)  
 [CSS](https://www.w3schools.com/css/)  
 [JavaScript](https://www.w3schools.com/js/)  
-[SQL](https://www.w3schools.com/sql/)  
 [Bash](https://tiswww.case.edu/php/chet/bash/bashref.html)  
 [Java](http://docs.oracle.com/javase/7/docs/api/)  
 
@@ -38,12 +37,13 @@ it's suprising that something as great as this has taken so long to hit the fron
 # Frameworks and Tools
 Also included here are frame works I want to learn or that I have learned about already.
 
-## Tools I'm Familiar With
+## Technology I'm Familiar With
 [MFC](https://msdn.microsoft.com/en-us/library/d06h2x6e.aspx)  
 [Windows Forms](https://msdn.microsoft.com/en-us/library/dd30h2yb(v=vs.110).aspx)  
 [Swing](https://docs.oracle.com/javase/tutorial/uiswing/components/index.html)  
+[SQL](https://www.w3schools.com/sql/)  
 
-## Tools I Want to Learn More About
+## Technology I Want to Learn More About
 [Django](https://www.djangoproject.com/)    
 [React](https://facebook.github.io/react/)  
 [Rails](http://rubyonrails.org/)  
