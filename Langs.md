@@ -37,13 +37,13 @@ it's suprising that something as great as this has taken so long to hit the fron
 # Frameworks and Tools
 Also included here are frame works I want to learn or that I have learned about already.
 
-## Technology I'm Familiar With
+## Technology I've Used
 [MFC](https://msdn.microsoft.com/en-us/library/d06h2x6e.aspx)  
 [Windows Forms](https://msdn.microsoft.com/en-us/library/dd30h2yb(v=vs.110).aspx)  
 [Swing](https://docs.oracle.com/javase/tutorial/uiswing/components/index.html)  
 [SQL](https://www.w3schools.com/sql/)  
 
-## Technology I Want to Learn More About
+## Technology I Have Not Used but Want to Learn About
 [Django](https://www.djangoproject.com/)    
 [React](https://facebook.github.io/react/)  
 [Rails](http://rubyonrails.org/)  
@@ -52,4 +52,5 @@ Also included here are frame works I want to learn or that I have learned about 
 [Angular](https://angular.io/)  
 [Gradle](https://gradle.org/)  
 [Maven](https://maven.apache.org/)  
-[Node.js](https://nodejs.org/en/)  
+[Node.js](https://nodejs.org/en/)   
+[Docker](https://www.docker.com/)  
