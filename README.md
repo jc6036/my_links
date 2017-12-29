@@ -112,6 +112,7 @@ Here is a list of topics included in this document.
 8/1/2017: [Flowchart Creation Tool; Dia](http://dia-installer.de/)  
 8/15/2017: [Try Haskell: An interactive haskell tutorial.](https://www.tryhaskell.org/)  
 11/27/2017: [Rex-Egg Regex Cheatsheet](http://www.rexegg.com/regex-quickstart.html)  
+12/29/2017: [VisUAL - A high visual ARM processor emulator.](https://salmanarif.bitbucket.io/visual/index.html)  
 
 #### Great Blogs/Sites/Repos
 [The Morning Paper.](https://blog.acolyer.org/) One CS Paper every weekday morning.  
