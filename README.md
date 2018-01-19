@@ -128,6 +128,8 @@ Here is a list of topics included in this document.
   
 Repo: [Everything a programmer should know.](https://github.com/mr-mig/every-programmer-should-know)  
 
+BOOKS, FREE BOOKS!: [GoalKicker](http://books.goalkicker.com/)  
+
 #### Curious Things
 [The Library of Babel.](https://libraryofbabel.info/) Contains every possible combination of a set of characters. Every written work of man can be found within.  
 
