@@ -125,6 +125,7 @@ Here is a list of topics included in this document.
 [Red Blob Games.](https://www.redblobgames.com/) A wonderful blog about game programming with many technical articles.  
 [Dev Free Books.](https://devfreebooks.github.io/?utm_source=t.co&utm_medium=referral) Great resource with lots of free e-books for developers.  
 [Programming, Motherfucker. Do you speak it?](http://programming-motherfucker.com/become.html) A great resource created by the rather abrasive Zed Shaw. Has some really solid books on learning to program.  
+[Teach Yourself CS.](https://teachyourselfcs.com/) A website outlining the CS topics a programmer will want to learn to raise himself from "Programmer" to "Computer Scientist".  
   
 Repo: [Everything a programmer should know.](https://github.com/mr-mig/every-programmer-should-know)  
 
